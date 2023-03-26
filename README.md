@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **yi-ge-dian/yi-ge-dian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍🎓 I'm currently pursuing a master's degree at UESTC
+🌱 I’m currently learning Serverless
+📫 How to reach me: maph9916@163.com
