@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>🌱 I’m currently focusing on serverless computing</p>
 <p>⚡ Long Live CloudNative</p>
     </td>
-<!--     <td align="left"><center><img width="400px"  height="230px" src="https://cdn.jsdelivr.net/gh/penghuima/ImageBed@master/img/blog_file/PicGo-Github-ImgBed20220521232550.gif"></center></td> -->
+    <td align="left"><center><img width="400px"  height="230px" src="https://cdn.staticaly.com/gh/yi-ge-dian/image-hosting@master/third/upload-form.tcqcz2stf5s.webp"></center></td>
 </table>
 
 
