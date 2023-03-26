@@ -15,16 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table >
-  <tr>
-    <td  >
 <p>👨‍🎓 I'm currently pursuing a master's degree at UESTC</p>
 <p>🤔 I’m currently researching in distribution storage and computing</p>      
 <p>🌱 I’m currently focusing on serverless computing</p>
 <p>⚡ Long Live CloudNative</p>
-    </td>
-    <td align="left"><center><img width="400px"  height="230px" src="https://cdn.staticaly.com/gh/yi-ge-dian/image-hosting@master/third/upload-form.tcqcz2stf5s.webp"></center></td>
-</table>
+
 
 
 
