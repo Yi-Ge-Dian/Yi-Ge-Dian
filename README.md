@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>🌱 I’m currently focusing on serverless computing</p>
 <p>⚡ Long Live CloudNative</p>
     </td>
-    <td align="left"><center><img  alt="yi-ge-dian's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yi-ge-dian&amp;show_icons=true"></center>
+    <td align="left"><center><img  alt="yi-ge-dian's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yi-ge-dian&show_icons=true&hide_border=true"></center>
     </td>
 </table>
 
