@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   <tr>
     <td  >
 <p>👨‍🎓 I'm currently pursuing a master's degree at UESTC</p>
-<p>🌱 I’m currently learning Serverless</p>
-<p>📫 How to reach me: 1085266008@qq.com</p>
+<p>🤔 I’m currently researching in distribution storage and computing</p>      
+<p>🌱 I’m currently focusing on serverless computing</p>
 <p>⚡ Long Live CloudNative</p>
     </td>
-    <td align="left"><center><img width="400px"  height="230px" src="https://cdn.jsdelivr.net/gh/penghuima/ImageBed@master/img/blog_file/PicGo-Github-ImgBed20220521232550.gif"></center></td>
+<!--     <td align="left"><center><img width="400px"  height="230px" src="https://cdn.jsdelivr.net/gh/penghuima/ImageBed@master/img/blog_file/PicGo-Github-ImgBed20220521232550.gif"></center></td> -->
 </table>
 
 
