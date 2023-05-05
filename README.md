@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table >
+<!-- <table >
   <tr>
     <td  >
 <p>👨‍🎓 I'm currently pursuing a master's degree at UESTC</p>
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
     </td>
     <td align="left"><center><img  alt="yi-ge-dian's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yi-ge-dian&show_icons=true&hide_border=true"></center>
     </td>
-</table>
+</table> -->
 
 
