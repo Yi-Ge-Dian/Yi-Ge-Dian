@@ -27,4 +27,7 @@ Here are some ideas to get you started:
     </td>
 </table> -->
 
-
+<p>👨‍🎓 I'm currently pursuing a master's degree at UESTC</p>
+<p>🤔 I’m currently researching in distribution storage and computing</p>      
+<p>🌱 I’m currently focusing on Serverless Computation</p>
+<p>⚡ Long Live CloudNative</p>
