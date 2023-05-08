@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 <p>👨‍🎓 I'm currently pursuing a master's degree at UESTC</p>
 <p>🤔 I’m currently researching in distribution storage and computing</p>      
-<p>🌱 I’m currently focusing on Serverless Computation</p>
+<p>🌱 I’m currently focusing on serverless computation</p>
 <p>⚡ Long Live CloudNative</p>
